@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oLgqAV1zSYe1rxAP9gqS3HvfBSsSBmTBTLT4kVfM2e/zDlvaUeiCfP79iR4b5O1ZLORwTju1lxm5Yf7sJpaMNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monik\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\monik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
